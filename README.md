@@ -2,6 +2,9 @@
 
 A secure and efficient Solana smart contract for managing SPL token deposits and withdrawals. This vault contract allows users to deposit SPL tokens, track individual balances, and provides vault owners with administrative controls.
 
+<img width="629" height="378" alt="Screenshot 2025-07-20 at 2 13 18 PM" src="https://github.com/user-attachments/assets/64da856d-b3ed-481c-8d10-0c774059abb9" />
+<img width="494" height="174" alt="Screenshot 2025-07-20 at 2 13 25 PM" src="https://github.com/user-attachments/assets/c0622a25-0ab4-4cc5-9d76-f806379371c3" />
+
 ## ✨ What Makes This Special
 
 ### 🔧 **Production-Ready Serialization**
